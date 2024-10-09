@@ -1,13 +1,5 @@
 #  MERN E-commerce React Shopping Website 👜🛍
 
-[![React](https://img.shields.io/badge/React-★★★★★-blue)](https://react.dev/)
-[![node](https://img.shields.io/badge/node-★★★★★-yellow)]()
-[![express](https://img.shields.io/badge/Express-★★★★★-green)]()
-[![mongoDB](https://img.shields.io/badge/mongoDB-★★★★★-pink)]()
-[![Firebase](https://img.shields.io/badge/Firebase-★★★★★-brown)]()
-[![Javascript](https://img.shields.io/badge/JavaScript-★★★★★-orange)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-<div align="center"><img width=auto height="150px" src="https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE/assets/72359805/f7ca753d-2874-48c9-a7a2-f3fe8fc25811"></div>
 
 
 A comprehensive feature-rich e-commerce website developed as a server-client React application, powered by the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. 
@@ -21,15 +13,15 @@ This project showcases proficiency in full-stack development, including frontend
 
 Key Features:
 - **dynamic shopping cart**
-- 🖊 **Interactive review system**
-- 🗂️ **Organized product listings**
-- 💳**Paypal payment process**
-- 🔒 **User authentication and authorization**
-- 🛠️ **User functionalities**, such as order history, and **admin functionalities** such as real-time metrics (registered users, order count, total money orders), creation, editing, and deletion of products.
+-  **Interactive review system**
+-  **Organized product listings**
+- **Paypal payment process**
+-  **User authentication and authorization**
+-  **User functionalities**, such as order history, and **admin functionalities** such as real-time metrics (registered users, order count, total money orders), creation, editing, and deletion of products.
 <br>
 
 
-## 🌟 Frontend Implementation 
+##  Frontend Implementation 
 The frontend is built using **React.js**, using React features such as hooks (`useState`, `useEffect`), and state management using **Redux**. It includes components and routing to create an interactive user experience.
 
 ### Key React features:
@@ -40,11 +32,11 @@ The frontend is built using **React.js**, using React features such as hooks (`u
 5. **Asynchronous Operations with Redux Thunk**: Handles asynchronous logic such as fetching data from the backend.
 
 
-## Backend Implementation 🧱
+## Backend Implementation 
 The backend of this e-commerce website is built using **Node.js** and **Express.js**, connecting to **MongoDB Atlas** for database management. It includes secure user authentication with **Firebase** and implements API endpoints to handle various functionalities such as product management, user management, and order processing.
 
 ### Key Components of the Backend:
-1. **Database Management with MongoDB Atlas**: 🌐
+1. **Database Management with MongoDB Atlas**: 
    `MongoDB Atlas` is a cloud-based NoSQL database used to manage the application's data efficiently. The database is designed to handle collections for `products, and orders`.
 
    - **Orders Collection**: Stores order details including items, shipping address, payment method, and user information.
@@ -57,12 +49,12 @@ The backend of this e-commerce website is built using **Node.js** and **Express.
 <br>
 
 
-2. **Express.js for API Development**: 🚀
+2. **Express.js for API Development**: 
    `Express.js` is used to create a RESTful API to handle `HTTP requests` and responses, ensuring efficient communication between the frontend and the backend. The API endpoints are 
 
 
 
-3. **User Authentication with Firebase**: 🔐
+3. **User Authentication with Firebase**: 
    `Firebase` Authentication is integrated to manage user `sign-up, login, and secure sessions`.
 
 
@@ -94,7 +86,7 @@ Using Demo Payment via <img height="20px" align="center" src="https://github.com
    
 ---
 
-# Technologies Used 🏆
+# Technologies Used 
 
 
 ### **MERN Stack:**
@@ -120,40 +112,40 @@ Using Demo Payment via <img height="20px" align="center" src="https://github.com
 
 ### **Frontend Development:**
 - [x] **HTML, CSS, JavaScript:** Foundational technologies for building the frontend interface, providing structure, style, and interactivity to web applications.
-- [x] **Bootstrap:** Frontend framework for developing responsive and mobile-first web projects, streamlining the design and layout process and ensuring compatibility across various devices. 🌐
+- [x] **Bootstrap:** Frontend framework for developing responsive and mobile-first web projects, streamlining the design and layout process and ensuring compatibility across various devices. 
 <br>
 
 
 
 # Key Features 🎯
-- [x] 🏠 **Home Page:** 
+- [x]  **Home Page:** 
   - Lists products to browse and explore.
 
-- [x] 🔍 **Detailed Product View:** 
+- [x]  **Detailed Product View:** 
   - Provides in-depth information about a selected product.
 
-- [x] 📂 **Product Categories:** 
+- [x]  **Product Categories:** 
   - Categorizes products for easy navigation.
 
-- [x] 🛒 **Shopping Cart:** 
+- [x]  **Shopping Cart:** 
   - Allows users to add and manage items in their cart.
 
-- [x] 💳 **Order Processing with PayPal:** 
+- [x]  **Order Processing with PayPal:** 
   - Securely handles payment processing using the PayPal API for demo purposes.
 
-- [x] 🔐 **Secure User Registration and Login:** 
+- [x]  **Secure User Registration and Login:** 
   - Ensures a safe and secure user authentication system.
 
-- [x] 👩‍💼👨‍💼 **Admin Functionalities:** 
+- [x]  **Admin Functionalities:** 
   - Manages 'Products' and 'Orders' lists
   - Features a dashboard displaying real-time metrics: registered users, order count, and financial performance through total money orders.
   - Enables the creation, editing, and deletion of products.
 
-- [x] 👩‍💼 **User Functionalities:** 
+- [x]  **User Functionalities:** 
   - Accesses order history.
   - Edits user profile.
 
-- [x] 👩🏻‍🤝‍🧑🏻 **About The Team Page:** 
+- [x]  **About The Team Page:** 
   - Provides information about the development team.   
 <br>
 
@@ -170,7 +162,7 @@ Using Demo Payment via <img height="20px" align="center" src="https://github.com
 ## Ecommerce Website Preview :
 ### Demo Website
 
-👉 Demo : 
+ Demo : 
 
 <img src="https://user-images.githubusercontent.com/72359805/230923394-09e38358-b620-4bc1-a3f0-f2620eb510c0.mp4" alt=" Click here for Demo" width="300">
 
