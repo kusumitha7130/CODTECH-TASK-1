@@ -1,4 +1,19 @@
-#  MERN E-commerce React Shopping Website 👜🛍
+# VEERAVELLY KUSUMITHA
+**NAME**: VEERAVELLY KUSUMITHA  
+**COMPANY**: CODTECH IT SOLUTIONS PVT. LTD  
+**ID**: CT06DS1774  
+**DOMAIN**: FULL STACK DEVELOPMENT  
+**DURATION**: August 25th to October 10th, 2024
+
+
+## OVERVIEW OF THE PROJECT
+
+
+## PROJECT: E-commerce React Shopping Website 
+
+
+## OBJECTIVES:
+Built a e-commerce platform with user authentication,product listings, and a shopping cart. Used React  for the frontend and Express.js  for the backend.Implemented user authentication and authorization. Created product listings and a payment gateway
 
 
 
