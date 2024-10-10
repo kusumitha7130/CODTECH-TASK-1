@@ -86,20 +86,13 @@ The backend of this e-commerce website is built using **Node.js** and **Express.
 
 
 
-4. **Paypal API** <img align="center" height="40px" src="https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE-WEBSITE/assets/72359805/1cf2f26b-937f-4eff-950d-a940409e14a9"> -
-Using Demo Payment via <img height="20px" align="center" src="https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE-WEBSITE/assets/72359805/acfd6955-7866-467e-8e13-d168da6bfc00">. To experience the payment process with PayPal, you can use the demo feature. Follow these steps to make a demo payment💰:
+4. **Paypal API** 
+. To experience the payment process with PayPal, you can use the demo feature. Follow these steps to make a demo payment:
   - [x] **Visit the Demo Payment Page**: Navigate to the payment page.
   - [x] **Login with Demo Credentials**: Use the provided demo username and password to access the demo environment.
   - [x] **Initiate Payment**: Enter the demo payment section and select PayPal as the payment method.
   - [x] **Complete Payment**: Follow the instructions to proceed with the demo payment through PayPal.
 
-#### Paypal Sandbox test accounts -
-![paypal demo](https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE/assets/72359805/3f5b4240-98c0-405f-8a4d-8967cbd2bbea)
-
-<br>
- 
-   
----
 
 # Technologies Used 
 
