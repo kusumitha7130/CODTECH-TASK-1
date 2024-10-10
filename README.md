@@ -132,7 +132,7 @@ Using Demo Payment via <img height="20px" align="center" src="https://github.com
 
 
 
-# Key Features 🎯
+# Key Features 
 - [x]  **Home Page:** 
   - Lists products to browse and explore.
 
